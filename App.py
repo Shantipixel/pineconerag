@@ -3,11 +3,15 @@ import streamlit as st
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
 from groq import Groq
-from readingvectors import load_parent_store
+import json
 
 EMBEDDING_DIM = 64
 INDEX_NAME = "hr-policy-handbook"
 PARENT_STORE_PATH = "parent_store.json"
+
+def load_parent_store(path):
+    with open(path) as f:
+        return json.load(f)
 
 HISTORICAL_KEYWORDS = [
     "changed", "change", "history", "historical", "before", "previously",
