@@ -5,7 +5,7 @@ import json
 
 from pinecone import Pinecone
 
-PINECONE_API_KEY = "pcsk_4zT8VZ_SDMLEtEAVo9J7eSE3QGHYgJb9YzqmBVMUykjrkwxXTTvyPVFf57Kr2LvaBxzhi2"
+PINECONE_API_KEY = PINECONE_API_KEY
 
 SECTION_NUMBER_PATTERN = re.compile(r"^(\d+)(?:\.(\d+))?\.?\s+\S")
 
