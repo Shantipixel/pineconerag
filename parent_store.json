@@ -1,0 +1,386 @@
+{
+  "1.0|None": {
+    "number": null,
+    "title": "Preamble",
+    "body": "Employee Handbook \u2014 Human Resources Policy Document Version: 1.0 | Effective Date: January 15, 2023",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "preamble",
+      "section_title": "Preamble"
+    }
+  },
+  "1.0|1": {
+    "number": "1",
+    "title": "1. Purpose & Scope",
+    "body": "This handbook establishes the human resources policies governing all full-time, part-time, and contract employees of (\"the Company\"). It applies to all domestic offices unless a jurisdiction-specific addendum states otherwise.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "1",
+      "section_title": "1. Purpose & Scope"
+    }
+  },
+  "1.0|2": {
+    "number": "2",
+    "title": "2. Employment Classification",
+    "body": "Full-Time: 35+ hours/week, eligible for full benefits. Part-Time: fewer than 35 hours/week, eligible for prorated benefits. Probationary Period: new hires are subject to a 90-day probationary period during which either party may terminate employment with minimal notice. Contractor: engaged under a separate services agreement; not eligible for Company benefits.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "2",
+      "section_title": "2. Employment Classification"
+    }
+  },
+  "1.0|3": {
+    "number": "3",
+    "title": "3. Working Hours & Attendance",
+    "body": "Standard core hours are 10:00 AM \u2013 4:00 PM, during which all employees are expected to be reachable. Employees may arrange flexible start/end times with manager approval, provided core hours are honored.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "3",
+      "section_title": "3. Working Hours & Attendance"
+    }
+  },
+  "1.0|4": {
+    "number": "4",
+    "title": "4. Remote & Hybrid Work",
+    "body": "Employees may work remotely up to 2 day(s) per week. Remote work arrangements require written manager approval and must be renewed quarterly. Employees working remotely are responsible for maintaining a secure, distraction-free workspace and a stable internet connection meeting Company IT minimums.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "4",
+      "section_title": "4. Remote & Hybrid Work"
+    }
+  },
+  "1.0|5": {
+    "number": "5",
+    "title": "5. Leave & Paid Time Off",
+    "body": "",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "5",
+      "section_title": "5. Leave & Paid Time Off"
+    }
+  },
+  "1.0|5.1": {
+    "number": "5.1",
+    "title": "5.1 Paid Time Off (PTO)",
+    "body": "Full-time employees accrue 15 days of PTO per calendar year, accrued monthly and prorated in the first year of employment. Unused PTO does not roll over and is forfeited at year-end.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "5.1",
+      "section_title": "5.1 Paid Time Off (PTO)"
+    }
+  },
+  "1.0|5.2": {
+    "number": "5.2",
+    "title": "5.2 Sick Leave",
+    "body": "Employees receive 8 days of paid sick leave annually, which may be used for personal illness, medical appointments, or care of an immediate family member.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "5.2",
+      "section_title": "5.2 Sick Leave"
+    }
+  },
+  "1.0|5.3": {
+    "number": "5.3",
+    "title": "5.3 Parental Leave",
+    "body": "Eligible employees (minimum 6 months tenure) receive 8 weeks of paid parental leave following the birth, adoption, or foster placement of a child. Leave may be taken within 12 months of the qualifying event.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "5.3",
+      "section_title": "5.3 Parental Leave"
+    }
+  },
+  "1.0|5.4": {
+    "number": "5.4",
+    "title": "5.4 Bereavement Leave",
+    "body": "Employees are entitled to 3 paid days of bereavement leave for the loss of an immediate family member, and 1 day for extended family.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "5.4",
+      "section_title": "5.4 Bereavement Leave"
+    }
+  },
+  "1.0|6": {
+    "number": "6",
+    "title": "6. Compensation & Benefits",
+    "body": "Payroll is processed on a bi-weekly basis via direct deposit. Annual performance and compensation reviews occur each March. Employee referral bonus: $1000 upon the referred candidate completing 90 days of employment. Health, dental, and vision insurance premiums are subsidized at 80% for employees and 50% for dependents. 401(k)/retirement plan with Company match up to 4% of base salary, vested immediately.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "6",
+      "section_title": "6. Compensation & Benefits"
+    }
+  },
+  "1.0|7": {
+    "number": "7",
+    "title": "7. Business Expenses",
+    "body": "Employees may submit reimbursable expenses up to $100 without pre-approval; amounts above this threshold require written manager sign-off prior to purchase. All expense reports must be submitted within 30 days with itemized receipts.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "7",
+      "section_title": "7. Business Expenses"
+    }
+  },
+  "1.0|8": {
+    "number": "8",
+    "title": "8. Code of Conduct",
+    "body": "All employees are expected to act with integrity, treat colleagues with respect, and comply with applicable laws. The Company maintains a zero-tolerance policy toward harassment, discrimination, and retaliation. Conflicts of interest must be disclosed to HR in writing. Confidential Company and client information must not be disclosed outside the organization. Use of Company systems for illegal activity will result in immediate termination.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "8",
+      "section_title": "8. Code of Conduct"
+    }
+  },
+  "1.0|9": {
+    "number": "9",
+    "title": "9. Performance Management & Termination",
+    "body": "Performance concerns are addressed through a progressive discipline process: verbal warning, written warning, performance improvement plan, and termination. Employees in good standing are asked to provide 14 days' written notice upon resignation.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "9",
+      "section_title": "9. Performance Management & Termination"
+    }
+  },
+  "1.0|10": {
+    "number": "10",
+    "title": "10. Acknowledgement",
+    "body": "By continuing employment with the Company, employees acknowledge they have read, understood, and agree to comply with this handbook. This document supersedes all prior versions. \u2014 End of Document (Version 1.0) \u2014",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "1.0",
+      "effective_date": "2023-01-15",
+      "section_number": "10",
+      "section_title": "10. Acknowledgement"
+    }
+  },
+  "2.0|None": {
+    "number": null,
+    "title": "Preamble",
+    "body": "Employee Handbook \u2014 Human Resources Policy Document Version: 2.0 | Effective Date: March 1, 2025",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "preamble",
+      "section_title": "Preamble"
+    }
+  },
+  "2.0|1": {
+    "number": "1",
+    "title": "1. Purpose & Scope",
+    "body": "This handbook establishes the human resources policies governing all full-time, part-time, and contract employees of (\"the Company\"). It applies to all domestic offices unless a jurisdiction-specific addendum states otherwise.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "1",
+      "section_title": "1. Purpose & Scope"
+    }
+  },
+  "2.0|2": {
+    "number": "2",
+    "title": "2. Employment Classification",
+    "body": "Full-Time: 35+ hours/week, eligible for full benefits. Part-Time: fewer than 35 hours/week, eligible for prorated benefits. Probationary Period: new hires are subject to a 60-day probationary period during which either party may terminate employment with minimal notice. Contractor: engaged under a separate services agreement; not eligible for Company benefits.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "2",
+      "section_title": "2. Employment Classification"
+    }
+  },
+  "2.0|3": {
+    "number": "3",
+    "title": "3. Working Hours & Attendance",
+    "body": "Standard core hours are 10:00 AM \u2013 3:00 PM, during which all employees are expected to be reachable. Employees may arrange flexible start/end times with manager approval, provided core hours are honored.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "3",
+      "section_title": "3. Working Hours & Attendance"
+    }
+  },
+  "2.0|4": {
+    "number": "4",
+    "title": "4. Remote & Hybrid Work",
+    "body": "Employees may work remotely up to 3 day(s) per week. Remote work is available by default; managers may request an in- office day for team collaboration with 48 hours' notice. Employees working remotely are responsible for maintaining a secure, distraction-free workspace and a stable internet connection meeting Company IT minimums.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "4",
+      "section_title": "4. Remote & Hybrid Work"
+    }
+  },
+  "2.0|5": {
+    "number": "5",
+    "title": "5. Leave & Paid Time Off",
+    "body": "",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5",
+      "section_title": "5. Leave & Paid Time Off"
+    }
+  },
+  "2.0|5.1": {
+    "number": "5.1",
+    "title": "5.1 Paid Time Off (PTO)",
+    "body": "Full-time employees accrue 20 days of PTO per calendar year, accrued monthly and prorated in the first year of employment. Unused PTO may roll over up to 5 days into the following calendar year.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.1",
+      "section_title": "5.1 Paid Time Off (PTO)"
+    }
+  },
+  "2.0|5.2": {
+    "number": "5.2",
+    "title": "5.2 Sick Leave",
+    "body": "Employees receive 8 days of paid sick leave annually, which may be used for personal illness, medical appointments, or care of an immediate family member.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.2",
+      "section_title": "5.2 Sick Leave"
+    }
+  },
+  "2.0|5.3": {
+    "number": "5.3",
+    "title": "5.3 Parental Leave",
+    "body": "Eligible employees (minimum 6 months tenure) receive 16 weeks of paid parental leave following the birth, adoption, or foster placement of a child. Leave may be taken within 12 months of the qualifying event.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.3",
+      "section_title": "5.3 Parental Leave"
+    }
+  },
+  "2.0|5.4": {
+    "number": "5.4",
+    "title": "5.4 Bereavement Leave",
+    "body": "Employees are entitled to 5 paid days of bereavement leave for the loss of an immediate family member, and 1 day for extended family.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.4",
+      "section_title": "5.4 Bereavement Leave"
+    }
+  },
+  "2.0|5.5": {
+    "number": "5.5",
+    "title": "5.5 Mental Health Days",
+    "body": "Employees receive 2 additional paid mental health days per year, separate from standard PTO and sick leave, which may be taken without prior manager approval.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.5",
+      "section_title": "5.5 Mental Health Days"
+    }
+  },
+  "2.0|5.6": {
+    "number": "5.6",
+    "title": "5.6 Sabbatical Leave",
+    "body": "Employees with 5+ years of continuous tenure are eligible to apply for a 4-week unpaid sabbatical, subject to manager and HR approval, once every 5 years.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "5.6",
+      "section_title": "5.6 Sabbatical Leave"
+    }
+  },
+  "2.0|6": {
+    "number": "6",
+    "title": "6. Compensation & Benefits",
+    "body": "Payroll is processed on a bi-weekly basis via direct deposit. Annual performance and compensation reviews occur each March. Employee referral bonus: $2000 upon the referred candidate completing 60 days of employment. Health, dental, and vision insurance premiums are subsidized at 80% for employees and 50% for dependents. 401(k)/retirement plan with Company match up to 4% of base salary, vested immediately.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "6",
+      "section_title": "6. Compensation & Benefits"
+    }
+  },
+  "2.0|7": {
+    "number": "7",
+    "title": "7. Business Expenses",
+    "body": "Employees may submit reimbursable expenses up to $150 without pre-approval; amounts above this threshold require written manager sign-off prior to purchase. All expense reports must be submitted within 30 days with itemized receipts.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "7",
+      "section_title": "7. Business Expenses"
+    }
+  },
+  "2.0|8": {
+    "number": "8",
+    "title": "8. Code of Conduct",
+    "body": "All employees are expected to act with integrity, treat colleagues with respect, and comply with applicable laws. The Company maintains a zero-tolerance policy toward harassment, discrimination, and retaliation. Conflicts of interest must be disclosed to HR in writing. Confidential Company and client information must not be disclosed outside the organization. Use of Company systems for illegal activity will result in immediate termination.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "8",
+      "section_title": "8. Code of Conduct"
+    }
+  },
+  "2.0|9": {
+    "number": "9",
+    "title": "9. Performance Management & Termination",
+    "body": "Performance concerns are addressed through a progressive discipline process: verbal warning, written warning, performance improvement plan, and termination. Employees in good standing are asked to provide 21 days' written notice upon resignation.",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "9",
+      "section_title": "9. Performance Management & Termination"
+    }
+  },
+  "2.0|10": {
+    "number": "10",
+    "title": "10. Acknowledgement",
+    "body": "By continuing employment with the Company, employees acknowledge they have read, understood, and agree to comply with this handbook. This document supersedes all prior versions. \u2014 End of Document (Version 2.0) \u2014",
+    "metadata": {
+      "source": "Northfield_Vance_HR_Handbook",
+      "version": "2.0",
+      "effective_date": "2025-03-01",
+      "section_number": "10",
+      "section_title": "10. Acknowledgement"
+    }
+  }
+}
